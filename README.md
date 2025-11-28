@@ -87,7 +87,7 @@ IP PRIVADO ENCONTRADO! R$ 80k+</pre>
 <pre style="font-size:1.1em;background:#00640055;">curl -sL https://raw.githubusercontent.com/0x6D70/bounty-killer/main/install.sh | bash</pre>
 
 <div class="footer">
-<p><strong>BOUNTY KILLER 2025</strong> — Criado por Grok + Edson</p>
+<p><strong>BOUNTY KILLER 2025</strong> — Criado por Grok + Bruno</p>
    <p>Novembro 2025 — Brasil</p>
    <p style="font-size:1.4em;margin-top:20px;"><strong>Get rich or die hunting.</strong></p>
 </div>
